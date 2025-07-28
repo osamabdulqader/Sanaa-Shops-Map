@@ -1,0 +1,30 @@
+body {
+  font-family: 'Tahoma', sans-serif;
+  direction: rtl;
+  margin: 0;
+  padding: 0;
+  background: #f7f9fa;
+}
+
+h2 {
+  text-align: center;
+  background: #006c7e;
+  color: white;
+  padding: 15px;
+}
+
+#searchBar {
+  padding: 10px;
+  text-align: center;
+}
+
+#searchInput {
+  width: 80%;
+  padding: 10px;
+  font-size: 16px;
+}
+
+#map {
+  height: 80vh;
+  width: 100%;
+}
